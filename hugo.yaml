@@ -39,7 +39,7 @@ languages:
           url: tags/
           weight: 10
         - name: GitHub
-          url: https://github.com/mourenZhu
+          url: https://github.com/zzbamboo
 
 outputs:
   home:
@@ -92,7 +92,7 @@ params:
   socialIcons:
     - name: github
       title: View My Github
-      url: "https://github.com/mourenZhu"
+      url: "https://github.com/zzbamboo"
 
   assets:
     disableHLJS: true

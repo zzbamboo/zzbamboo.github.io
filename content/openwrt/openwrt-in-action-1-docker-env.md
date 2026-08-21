@@ -123,7 +123,7 @@ docker-compose up ubuntu-compile-openwrt -d
 2. 进入编译容器内部，下载自己的OpenWrt源码
 ```shell
 cd /home/buildbot
-git clone git@github.com:mourenZhu/openwrt.git # 这是作者本人的地址，实际下载时换成自己的地址
+git clone git@github.com:zzbamboo/openwrt.git # 这是作者本人的地址，实际下载时换成自己的地址
 ```
 3. 从OpenWrt源创建一基于23.05发行版本的分支
 ```shell
